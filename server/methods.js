@@ -1,4 +1,6 @@
+// Deberia jaber un archivo main.js en la carpeta server
 Meteor.methods({
+
 
 	addImagen(url,snippet,title)
 	{
