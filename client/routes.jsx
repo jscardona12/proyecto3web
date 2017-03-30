@@ -1,3 +1,5 @@
+// Deberia haber un archivo main.jsx, ya que por defecto meteor busca este archivo para compilar primero
+
 import React from 'react';
 import {mount} from 'react-mounter';
 import {MainLayout} from './layouts/MainLayout';
