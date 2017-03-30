@@ -1,3 +1,6 @@
+
+//Juan Sebastian Cardona: la carpeta que tiene los archivos de JSX de la interfaz no deberia llamrse imagenes, deberia llamarse UI.
+//Este diseño de carpeta lo tiene meteor en su pagina web y es un criterio de calificacion
 import React,{Component} from 'react';
 
 export default class Buscador extends Component{
